@@ -36,7 +36,7 @@ Encoder logic schematic on grid paper, title block at right reading sideways.
 - **Dots (junctions):** 2
 - **Wiring (first pass):** 105 connected wire groups from 1,097 runs, 5 dotted junctions
 
-Every curve, box, word and wire group: [1972 - 757-02-001 - 0 TO 24 BCD ENCODER (NEGATIVE LOGIC) - DRN MRW - ISS 1 (traced).json](../SCHEMATICS/1972%20-%20757-02-001%20-%200%20TO%2024%20BCD%20ENCODER%20(NEGATIVE%20LOGIC)%20-%20DRN%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1972 - 757-02-001 - 0 TO 24 BCD ENCODER (NEGATIVE LOGIC) - DRN MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1972 - 757-02-001 - 0 TO 24 BCD ENCODER (NEGATIVE LOGIC) - DRN MRW - ISS 1 (traced).json](../SCHEMATICS/1972%20-%20757-02-001%20-%200%20TO%2024%20BCD%20ENCODER%20%28NEGATIVE%20LOGIC%29%20-%20DRN%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1972 - 757-02-001 - 0 TO 24 BCD ENCODER (NEGATIVE LOGIC) - DRN MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 
